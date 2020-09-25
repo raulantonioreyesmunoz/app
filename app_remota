@@ -1,0 +1,17 @@
+{
+    "protocol": "ftp",
+    "host": "crud.cl",
+    "port": 21,
+    "user": "crud.cl",
+    "pass": "R16169326k",
+    "promptForPass": false,
+    "remote": "/app",
+    "local": "",
+    "secure": false,
+    "secureOptions": null,
+    "connTimeout": 10000,
+    "pasvTimeout": 10000,
+    "keepalive": 10000,
+    "watch": [],
+    "watchTimeout": 500
+}
